@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nova-poshta-task/static/css/main.7acaea2f.css",
+    "main.js": "/nova-poshta-task/static/js/main.07d3183d.js",
+    "index.html": "/nova-poshta-task/index.html",
+    "main.7acaea2f.css.map": "/nova-poshta-task/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/nova-poshta-task/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
